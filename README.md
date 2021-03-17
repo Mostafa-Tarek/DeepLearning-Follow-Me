@@ -1,6 +1,6 @@
 ## Deep Learning Project ##
 
-In this project, you will train a deep neural network to identify and track a target in simulation. So-called “follow me” applications like this are key to many fields of robotics and the very same techniques you apply here could be extended to scenarios like advanced cruise control in autonomous vehicles or human-robot collaboration in industry.
+The goal of this project is to build a Fully Convolution Neural Network (FCNN) to identify and track a person in simulation using DL tools (tensorflow,keras).
 
 [image_0]: ./docs/misc/sim_screenshot.png
 ![alt text][image_0] 
