@@ -1,6 +1,7 @@
 ## Deep Learning Project ##
 
 The goal of this project is to build a Fully Convolution Neural Network (FCNN) to identify and track a person in simulation using DL  platform-tools (TensorFlow, Keras).
+
 [image_0]: ./docs/misc/sim_screenshot.png
 ![alt text][image_0] 
 
