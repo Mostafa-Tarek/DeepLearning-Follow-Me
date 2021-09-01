@@ -2,11 +2,11 @@
 
 The goal of this project is to build a Fully Convolution Neural Network (FCNN) to identify and track a person with a Drone using Deeplearning (DL) platform-tools (TensorFlow, Keras).
 
-[image_0]: ./docs/misc/sim_screenshot.png
-![alt text][image_0] 
+[image_0]: ./docs/misc/sim_screenshot.png   [image_1]: ./docs/misc/6_run1_mask_00207.png
+![alt text][image_1] ![alt text][image_0] 
 
-[image_1]: ./docs/misc/6_run1_mask_00207.png
-![alt text][image_1] 
+
+
 
 [image_2]: ./docs/misc/6_run1cam1_00207.jpeg
 ![alt text][image_2] 
