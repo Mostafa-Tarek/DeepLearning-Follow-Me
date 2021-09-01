@@ -7,6 +7,7 @@ The goal of this project is to build a Fully Convolution Neural Network (FCNN) t
 
 [image_1]: ./docs/misc/6_run1_mask_00207.png
 ![alt text][image_1]
+
 [image_2]: ./docs/misc/6_run1cam1_00207.jpeg
 ![alt text][image_2] 
 
