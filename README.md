@@ -5,6 +5,14 @@ The goal of this project is to build a Fully Convolution Neural Network (FCNN) t
 [image_0]: ./docs/misc/sim_screenshot.png
 ![alt text][image_0] 
 
+[image_1]: ./docs/misc/6_run1_mask_00207.png
+![alt text][image_1] 
+
+[image_2]: ./docs/misc/6_run1cam1_00207.jpeg
+![alt text][image_2] 
+
+
+
 ## Setup Instructions
 **Clone the repository**
 ```
